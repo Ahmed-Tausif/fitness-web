@@ -255,7 +255,7 @@ li >a{
     background-color: white;
         width: 1060px;
     height: 370px;
-     margin: 100px 190px 0px 190px;
+     margin: 100px auto 0px auto;
 }
 .xtrarun{
     display: grid;
@@ -278,8 +278,55 @@ li >a{
 .wedoex{
     display: flex;
     flex-direction: column;
-    width: 1060px;
-    height: 580px;
     justify-content: center;
     align-items: center;
+    margin: 00px auto 0px auto;
+}
+.sda{
+    margin: 100px 389px 0px 0px;
+    width: 650px;
+}
+.exercise> img{
+    height: 190px;
+}
+.exercise{
+    display: grid;
+    grid-template-columns: repeat(4,2fr);
+    margin-left: -28px;
+    margin-top: 52px;
+    width: 1020px;
+}
+.exercisee> img{
+    height: 190px;
+}
+.exercisee{
+    display: grid;
+    grid-template-columns: repeat(4,2fr);
+    margin-left: -28px;
+    width: 1020px;
+}
+.exe{
+    width: 520px;
+    position: absolute;
+    margin-left: 260px;
+}
+.exw{
+    width: 323px;
+    /* margin-left: 190px; */
+    /* margin-right: 520px; */
+}
+.ewe{
+    width: 290px;
+    margin-left: 445px;
+}
+.legd{
+    width:435px;
+}
+.seddf{
+    position: absolute;
+    margin: 0px 436px 0px 400px;
+}
+.megs{
+    margin-left: 250px;
+    width: 373px;
 }
